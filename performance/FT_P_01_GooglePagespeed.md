@@ -15,4 +15,4 @@ Google PageSpeed Factive Test Case
  - Provide URL pointing to **<a href="#(1)">(1)</a>** to Google PageSpeed Serivce
 
 ### Postconditions
- - Expect Google PageSpeed result is more or equal to **90**.
+ - Expect Google PageSpeed result is more or equal than **90**.
