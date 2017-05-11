@@ -21,4 +21,4 @@ Google PageSpeed Factive Test Case
 ***
 
 ### Postconditions
- - Expect Google PageSpeed result is more or equal than **90**.
+ - Expect Google PageSpeed result is more or equal than **90**
